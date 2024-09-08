@@ -8,7 +8,7 @@ WORKDIR /app
 COPY server/target/epam-ASEAT-1.0-SNAPSHOT.jar app.jar
 
 # Expose port 8080 (or whatever port your app uses)
-EXPOSE 8080
+EXPOSE 8000
 
 # Run the Spring Boot application
 ENTRYPOINT ["java", "-jar", "app.jar"]
