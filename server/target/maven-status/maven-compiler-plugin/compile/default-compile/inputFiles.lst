@@ -1,0 +1,10 @@
+C:\Users\Peter_Abel_Nagy\Documents\B1_Assessment\task\ASEA\server\src\main\java\com\epam\ASEAT\Application.java
+C:\Users\Peter_Abel_Nagy\Documents\B1_Assessment\task\ASEA\server\src\main\java\com\epam\ASEAT\controller\FlightRouteController.java
+C:\Users\Peter_Abel_Nagy\Documents\B1_Assessment\task\ASEA\server\src\main\java\com\epam\ASEAT\data\DepartureDestinationDTO.java
+C:\Users\Peter_Abel_Nagy\Documents\B1_Assessment\task\ASEA\server\src\main\java\com\epam\ASEAT\data\RO\FlightRouteRO.java
+C:\Users\Peter_Abel_Nagy\Documents\B1_Assessment\task\ASEA\server\src\main\java\com\epam\ASEAT\integration\providers\Provider1Client.java
+C:\Users\Peter_Abel_Nagy\Documents\B1_Assessment\task\ASEA\server\src\main\java\com\epam\ASEAT\integration\providers\Provider2Client.java
+C:\Users\Peter_Abel_Nagy\Documents\B1_Assessment\task\ASEA\server\src\main\java\com\epam\ASEAT\service\FlightAggregatorService.java
+C:\Users\Peter_Abel_Nagy\Documents\B1_Assessment\task\ASEA\server\src\main\java\com\epam\ASEAT\service\GenAIService.java
+C:\Users\Peter_Abel_Nagy\Documents\B1_Assessment\task\ASEA\server\src\main\java\com\epam\ASEAT\service\OpenAiApi.java
+C:\Users\Peter_Abel_Nagy\Documents\B1_Assessment\task\ASEA\server\src\main\java\com\epam\ASEAT\util\exceptions\GlobalExceptionHandler.java

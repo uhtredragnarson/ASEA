@@ -1,0 +1,10 @@
+com\epam\ASEAT\data\RO\FlightRouteRO.class
+com\epam\ASEAT\controller\FlightRouteController.class
+com\epam\ASEAT\Application.class
+com\epam\ASEAT\integration\providers\Provider1Client.class
+com\epam\ASEAT\service\OpenAiApi.class
+com\epam\ASEAT\service\GenAIService.class
+com\epam\ASEAT\data\DepartureDestinationDTO.class
+com\epam\ASEAT\integration\providers\Provider2Client.class
+com\epam\ASEAT\util\exceptions\GlobalExceptionHandler.class
+com\epam\ASEAT\service\FlightAggregatorService.class
