@@ -5,7 +5,7 @@ FROM openjdk:17-jdk-alpine
 WORKDIR /app
 
 # Copy the built jar file into the container
-COPY target/epam-ASEAT-1.0-SNAPSHOT.jar app.jar
+COPY server/target/epam-ASEAT-1.0-SNAPSHOT.jar app.jar
 
 # Expose port 8080 (or whatever port your app uses)
 EXPOSE 8080
